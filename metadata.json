@@ -1,0 +1,6 @@
+{
+  "name": "Leonida Vice — GTA VI Sandbox",
+  "description": "Jeu d'action 3D en monde ouvert inspiré de Vice City et Leonida : conduite de supercars, poursuites policières, missions, radio synthwave et cycle jour/nuit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
